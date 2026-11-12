@@ -1,0 +1,1271 @@
+{
+ "type": "FeatureCollection",
+ "name": "Merwedebrug_A27_prisms",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94173298,
+     51.82570446
+    ]
+   },
+   "properties": {
+    "name": "12b_P4_0",
+    "type": "prism",
+    "element": "P4",
+    "easting_rd": 124289.9985,
+    "northing_rd": 426438.2155,
+    "height": 8.143169056,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2058.559445,
+    "local_x": 5210.448992,
+    "latitude": 51.82570446,
+    "longitude": 4.94173298
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94203215,
+     51.82566303
+    ]
+   },
+   "properties": {
+    "name": "12a_P4_0",
+    "type": "prism",
+    "element": "P4",
+    "easting_rd": 124310.595,
+    "northing_rd": 426433.4804,
+    "height": 8.230243765,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2077.574668,
+    "local_x": 5201.22645,
+    "latitude": 51.82566303,
+    "longitude": 4.94203215
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94166944,
+     51.82577029
+    ]
+   },
+   "properties": {
+    "name": "TS1-1",
+    "type": "total_station",
+    "element": "",
+    "easting_rd": 124285.6631,
+    "northing_rd": 426445.5655,
+    "height": 7.909905759,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2055.97801,
+    "local_x": 5218.582535,
+    "latitude": 51.82577029,
+    "longitude": 4.94166944
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94209406,
+     51.82572901
+    ]
+   },
+   "properties": {
+    "name": "TS2",
+    "type": "total_station",
+    "element": "",
+    "easting_rd": 124314.9079,
+    "northing_rd": 426440.7941,
+    "height": 7.035369951,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2083.41436,
+    "local_x": 5207.390052,
+    "latitude": 51.82572901,
+    "longitude": 4.94209406
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94149292,
+     51.82408803
+    ]
+   },
+   "properties": {
+    "name": "00a_LHZ_0",
+    "type": "prism",
+    "element": "LHZ",
+    "easting_rd": 124272.3475,
+    "northing_rd": 426258.4834,
+    "height": 9.067991031,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2001.150044,
+    "local_x": 5039.220036,
+    "latitude": 51.82408803,
+    "longitude": 4.94149292
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94114491,
+     51.82413573
+    ]
+   },
+   "properties": {
+    "name": "00b_LHZ_0",
+    "type": "prism",
+    "element": "LHZ",
+    "easting_rd": 124248.3882,
+    "northing_rd": 426263.9373,
+    "height": 9.085017336,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 1979.017981,
+    "local_x": 5049.895344,
+    "latitude": 51.82413573,
+    "longitude": 4.94114491
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94149295,
+     51.82408824
+    ]
+   },
+   "properties": {
+    "name": "00c_LHZ_0",
+    "type": "prism",
+    "element": "LHZ",
+    "easting_rd": 124272.3499,
+    "northing_rd": 426258.5068,
+    "height": 6.494302611,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2001.157614,
+    "local_x": 5039.242329,
+    "latitude": 51.82408824,
+    "longitude": 4.94149295
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94114499,
+     51.82413624
+    ]
+   },
+   "properties": {
+    "name": "00d_LHZ_0",
+    "type": "prism",
+    "element": "LHZ",
+    "easting_rd": 124248.3944,
+    "northing_rd": 426263.9938,
+    "height": 6.82464068,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 1979.036597,
+    "local_x": 5049.949039,
+    "latitude": 51.82413624,
+    "longitude": 4.94114499
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94163364,
+     51.82447789
+    ]
+   },
+   "properties": {
+    "name": "01_P1_0",
+    "type": "prism",
+    "element": "P1",
+    "easting_rd": 124282.3146,
+    "northing_rd": 426301.7966,
+    "height": 9.289972888,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2020.553644,
+    "local_x": 5079.205965,
+    "latitude": 51.82447789,
+    "longitude": 4.94163364
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94163481,
+     51.82447786
+    ]
+   },
+   "properties": {
+    "name": "02_P1_0",
+    "type": "prism",
+    "element": "P1",
+    "easting_rd": 124282.3951,
+    "northing_rd": 426301.793,
+    "height": 6.89523516,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2020.631272,
+    "local_x": 5079.184484,
+    "latitude": 51.82447786,
+    "longitude": 4.94163481
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94128136,
+     51.82452648
+    ]
+   },
+   "properties": {
+    "name": "03_P1_0",
+    "type": "prism",
+    "element": "P1",
+    "easting_rd": 124258.0615,
+    "northing_rd": 426307.3521,
+    "height": 9.323371927,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 1998.157902,
+    "local_x": 5090.046106,
+    "latitude": 51.82452648,
+    "longitude": 4.94128136
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94128028,
+     51.82452684
+    ]
+   },
+   "properties": {
+    "name": "04_P1_0",
+    "type": "prism",
+    "element": "P1",
+    "easting_rd": 124257.9878,
+    "northing_rd": 426307.3917,
+    "height": 6.85512893,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 1998.094975,
+    "local_x": 5090.101157,
+    "latitude": 51.82452684,
+    "longitude": 4.94128028
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94177613,
+     51.82487469
+    ]
+   },
+   "properties": {
+    "name": "05_P2_0",
+    "type": "prism",
+    "element": "P2",
+    "easting_rd": 124292.4079,
+    "northing_rd": 426345.8823,
+    "height": 10.20686315,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2040.25304,
+    "local_x": 5119.916656,
+    "latitude": 51.82487469,
+    "longitude": 4.94177613
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94177725,
+     51.82487512
+    ]
+   },
+   "properties": {
+    "name": "06_P2_0",
+    "type": "prism",
+    "element": "P2",
+    "easting_rd": 124292.486,
+    "northing_rd": 426345.9294,
+    "height": 7.577989976,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2040.339645,
+    "local_x": 5119.945129,
+    "latitude": 51.82487512,
+    "longitude": 4.94177725
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94142484,
+     51.82492435
+    ]
+   },
+   "properties": {
+    "name": "07_P2_0",
+    "type": "prism",
+    "element": "P2",
+    "easting_rd": 124268.2242,
+    "northing_rd": 426351.5555,
+    "height": 10.2325155,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2017.951226,
+    "local_x": 5130.855882,
+    "latitude": 51.82492435,
+    "longitude": 4.94142484
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94142318,
+     51.82492428
+    ]
+   },
+   "properties": {
+    "name": "08_P2_0",
+    "type": "prism",
+    "element": "P2",
+    "easting_rd": 124268.11,
+    "northing_rd": 426351.5487,
+    "height": 7.211200709,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2017.838451,
+    "local_x": 5130.874817,
+    "latitude": 51.82492428,
+    "longitude": 4.94142318
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94191917,
+     51.82527299
+    ]
+   },
+   "properties": {
+    "name": "09_P3_0",
+    "type": "prism",
+    "element": "P3",
+    "easting_rd": 124302.5405,
+    "northing_rd": 426390.134,
+    "height": 11.07764052,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2060.02781,
+    "local_x": 5160.780311,
+    "latitude": 51.82527299,
+    "longitude": 4.94191917
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94192095,
+     51.82527248
+    ]
+   },
+   "properties": {
+    "name": "10_P3_0",
+    "type": "prism",
+    "element": "P3",
+    "easting_rd": 124302.6632,
+    "northing_rd": 426390.0772,
+    "height": 7.968890334,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2060.134752,
+    "local_x": 5160.697517,
+    "latitude": 51.82527248,
+    "longitude": 4.94192095
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94156728,
+     51.82532112
+    ]
+   },
+   "properties": {
+    "name": "11_P3_0",
+    "type": "prism",
+    "element": "P3",
+    "easting_rd": 124278.3143,
+    "northing_rd": 426395.6377,
+    "height": 11.12002985,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2037.64678,
+    "local_x": 5171.563861,
+    "latitude": 51.82532112,
+    "longitude": 4.94156728
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9415666,
+     51.8253225
+    ]
+   },
+   "properties": {
+    "name": "12_P3_0",
+    "type": "prism",
+    "element": "P3",
+    "easting_rd": 124278.2686,
+    "northing_rd": 426395.7909,
+    "height": 7.966542396,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2037.63645,
+    "local_x": 5171.723398,
+    "latitude": 51.8253225,
+    "longitude": 4.9415666
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94260178,
+     51.82722946
+    ]
+   },
+   "properties": {
+    "name": "13_P5_1",
+    "type": "prism",
+    "element": "P5",
+    "easting_rd": 124350.9291,
+    "northing_rd": 426607.5107,
+    "height": 11.36888854,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2155.816829,
+    "local_x": 5361.823947,
+    "latitude": 51.82722946,
+    "longitude": 4.94260178
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94260345,
+     51.82722845
+    ]
+   },
+   "properties": {
+    "name": "14_P5_1",
+    "type": "prism",
+    "element": "P5",
+    "easting_rd": 124351.0437,
+    "northing_rd": 426607.3975,
+    "height": 8.006340625,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2155.90324,
+    "local_x": 5361.687984,
+    "latitude": 51.82722845,
+    "longitude": 4.94260345
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94228712,
+     51.82726259
+    ]
+   },
+   "properties": {
+    "name": "15_P5_1",
+    "type": "prism",
+    "element": "P5",
+    "easting_rd": 124329.26,
+    "northing_rd": 426611.3289,
+    "height": 11.35922424,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2135.55097,
+    "local_x": 5370.392699,
+    "latitude": 51.82726259,
+    "longitude": 4.94228712
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94228551,
+     51.82726314
+    ]
+   },
+   "properties": {
+    "name": "16_P5_1",
+    "type": "prism",
+    "element": "P5",
+    "easting_rd": 124329.15,
+    "northing_rd": 426611.3908,
+    "height": 8.084412384,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2135.457621,
+    "local_x": 5370.477657,
+    "latitude": 51.82726314,
+    "longitude": 4.94228551
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94243811,
+     51.82724752
+    ]
+   },
+   "properties": {
+    "name": "17_P5_1",
+    "type": "prism",
+    "element": "P5",
+    "easting_rd": 124339.6588,
+    "northing_rd": 426609.5894,
+    "height": 6.673437699,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2145.297159,
+    "local_x": 5366.371183,
+    "latitude": 51.82724752,
+    "longitude": 4.94243811
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9431608,
+     51.82878998
+    ]
+   },
+   "properties": {
+    "name": "18_P6_1",
+    "type": "prism",
+    "element": "P6",
+    "easting_rd": 124390.525,
+    "northing_rd": 426780.889,
+    "height": 10.97871133,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2233.193631,
+    "local_x": 5521.951116,
+    "latitude": 51.82878998,
+    "longitude": 4.9431608
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94316206,
+     51.82878993
+    ]
+   },
+   "properties": {
+    "name": "19_P6_1",
+    "type": "prism",
+    "element": "P6",
+    "easting_rd": 124390.6123,
+    "northing_rd": 426780.8826,
+    "height": 7.435576375,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2233.277321,
+    "local_x": 5521.925369,
+    "latitude": 51.82878993,
+    "longitude": 4.94316206
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9428552,
+     51.82883209
+    ]
+   },
+   "properties": {
+    "name": "20_P6_1",
+    "type": "prism",
+    "element": "P6",
+    "easting_rd": 124369.488,
+    "northing_rd": 426785.7019,
+    "height": 11.39749228,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2213.766383,
+    "local_x": 5531.348008,
+    "latitude": 51.82883209,
+    "longitude": 4.9428552
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94285312,
+     51.82883233
+    ]
+   },
+   "properties": {
+    "name": "21_P6_1",
+    "type": "prism",
+    "element": "P6",
+    "easting_rd": 124369.3446,
+    "northing_rd": 426785.7303,
+    "height": 7.220407776,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2213.632927,
+    "local_x": 5531.407786,
+    "latitude": 51.82883233,
+    "longitude": 4.94285312
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94349229,
+     51.82964498
+    ]
+   },
+   "properties": {
+    "name": "31_P7_0",
+    "type": "prism",
+    "element": "P7",
+    "easting_rd": 124413.9558,
+    "northing_rd": 426875.8714,
+    "height": 10.65838585,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2277.277943,
+    "local_x": 5609.285092,
+    "latitude": 51.82964498,
+    "longitude": 4.94349229
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94349412,
+     51.82964542
+    ]
+   },
+   "properties": {
+    "name": "32_P7_0",
+    "type": "prism",
+    "element": "P7",
+    "easting_rd": 124414.0824,
+    "northing_rd": 426875.919,
+    "height": 7.292608616,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2277.412074,
+    "local_x": 5609.303234,
+    "latitude": 51.82964542,
+    "longitude": 4.94349412
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94314157,
+     51.82969377
+    ]
+   },
+   "properties": {
+    "name": "33_P7_0",
+    "type": "prism",
+    "element": "P7",
+    "easting_rd": 124389.8133,
+    "northing_rd": 426881.4473,
+    "height": 10.71092126,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2254.994624,
+    "local_x": 5620.120391,
+    "latitude": 51.82969377,
+    "longitude": 4.94314157
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9431397,
+     51.82969402
+    ]
+   },
+   "properties": {
+    "name": "34_P7_0",
+    "type": "prism",
+    "element": "P7",
+    "easting_rd": 124389.6849,
+    "northing_rd": 426881.4752,
+    "height": 7.047099051,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2254.875685,
+    "local_x": 5620.17623,
+    "latitude": 51.82969402,
+    "longitude": 4.9431397
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94333292,
+     51.82967834
+    ]
+   },
+   "properties": {
+    "name": "34a_P7_0",
+    "type": "prism",
+    "element": "P7",
+    "easting_rd": 124402.9929,
+    "northing_rd": 426879.6493,
+    "height": 6.535846364,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2267.437975,
+    "local_x": 5615.419664,
+    "latitude": 51.82967834,
+    "longitude": 4.94333292
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94377738,
+     51.83043759
+    ]
+   },
+   "properties": {
+    "name": "35_P9_0",
+    "type": "prism",
+    "element": "P9",
+    "easting_rd": 124434.1452,
+    "northing_rd": 426963.9325,
+    "height": 8.740476983,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2316.654817,
+    "local_x": 5690.598309,
+    "latitude": 51.83043759,
+    "longitude": 4.94377738
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94377914,
+     51.83043799
+    ]
+   },
+   "properties": {
+    "name": "36_P9_0",
+    "type": "prism",
+    "element": "P9",
+    "easting_rd": 124434.2671,
+    "northing_rd": 426963.9761,
+    "height": 6.457192551,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2316.783335,
+    "local_x": 5690.61354,
+    "latitude": 51.83043799,
+    "longitude": 4.94377914
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94342706,
+     51.83048586
+    ]
+   },
+   "properties": {
+    "name": "37_P9_0",
+    "type": "prism",
+    "element": "P9",
+    "easting_rd": 124410.0307,
+    "northing_rd": 426969.4494,
+    "height": 8.90829839,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2294.385489,
+    "local_x": 5701.369786,
+    "latitude": 51.83048586,
+    "longitude": 4.94342706
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94342545,
+     51.83048653
+    ]
+   },
+   "properties": {
+    "name": "38_P9_0",
+    "type": "prism",
+    "element": "P9",
+    "easting_rd": 124409.9196,
+    "northing_rd": 426969.5243,
+    "height": 6.273232827,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2294.294019,
+    "local_x": 5701.4676,
+    "latitude": 51.83048653,
+    "longitude": 4.94342545
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94359831,
+     51.83045206
+    ]
+   },
+   "properties": {
+    "name": "38a_P9_0",
+    "type": "prism",
+    "element": "P9",
+    "easting_rd": 124421.8118,
+    "northing_rd": 426965.6168,
+    "height": 5.583018879,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2305.01069,
+    "local_x": 5694.99886,
+    "latitude": 51.83045206,
+    "longitude": 4.94359831
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94360609,
+     51.8309754
+    ]
+   },
+   "properties": {
+    "name": "39_LHN_0",
+    "type": "prism",
+    "element": "LHN",
+    "easting_rd": 124422.7034,
+    "northing_rd": 427023.8374,
+    "height": 10.30447304,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2318.903501,
+    "local_x": 5751.544682,
+    "latitude": 51.8309754,
+    "longitude": 4.94360609
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94395276,
+     51.83093294
+    ]
+   },
+   "properties": {
+    "name": "40_LHN_0",
+    "type": "prism",
+    "element": "LHN",
+    "easting_rd": 124446.5704,
+    "northing_rd": 427018.9678,
+    "height": 10.34056138,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2341.076372,
+    "local_x": 5741.45946,
+    "latitude": 51.83093294,
+    "longitude": 4.94395276
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94395267,
+     51.83093324
+    ]
+   },
+   "properties": {
+    "name": "41_LHN_0",
+    "type": "prism",
+    "element": "LHN",
+    "easting_rd": 124446.5646,
+    "northing_rd": 427019.0017,
+    "height": 7.860398259,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2341.078333,
+    "local_x": 5741.49381,
+    "latitude": 51.83093324,
+    "longitude": 4.94395267
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94360633,
+     51.83097595
+    ]
+   },
+   "properties": {
+    "name": "42_LHN_0",
+    "type": "prism",
+    "element": "LHN",
+    "easting_rd": 124422.7198,
+    "northing_rd": 427023.898,
+    "height": 7.769400738,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2318.933043,
+    "local_x": 5751.600072,
+    "latitude": 51.83097595,
+    "longitude": 4.94360633
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94299297,
+     51.82880599
+    ]
+   },
+   "properties": {
+    "name": "TS3",
+    "type": "total_station",
+    "element": "",
+    "easting_rd": 124378.9671,
+    "northing_rd": 426782.7405,
+    "height": 7.755192652,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2222.342825,
+    "local_x": 5526.34115,
+    "latitude": 51.82880599,
+    "longitude": 4.94299297
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94364323,
+     51.83003451
+    ]
+   },
+   "properties": {
+    "name": "TS4",
+    "type": "total_station",
+    "element": "",
+    "easting_rd": 124424.6251,
+    "northing_rd": 426919.1439,
+    "height": 8.738319593,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2297.35682,
+    "local_x": 5649.074343,
+    "latitude": 51.83003451,
+    "longitude": 4.94364323
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94327161,
+     51.83008632
+    ]
+   },
+   "properties": {
+    "name": "TS5",
+    "type": "total_station",
+    "element": "",
+    "easting_rd": 124399.0438,
+    "northing_rd": 426925.0647,
+    "height": 8.540416982,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2273.748339,
+    "local_x": 5660.567582,
+    "latitude": 51.83008632,
+    "longitude": 4.94327161
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94324183,
+     51.8290666
+    ]
+   },
+   "properties": {
+    "name": "23_KW_0",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124396.2990132205,
+    "northing_rd": 426811.62993675825,
+    "height": 9.983551525910542,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2245.697990020616,
+    "local_x": 5550.621413,
+    "latitude": 51.8290666,
+    "longitude": 4.94324183
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9432417,
+     51.82906664
+    ]
+   },
+   "properties": {
+    "name": "24_KW_0",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124396.2899308904,
+    "northing_rd": 426811.6344509059,
+    "height": 7.639000587401515,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2245.690148,
+    "local_x": 5550.627844257331,
+    "latitude": 51.82906664,
+    "longitude": 4.9432417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94297139,
+     51.82910397
+    ]
+   },
+   "properties": {
+    "name": "25_KW_0",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124377.68188015177,
+    "northing_rd": 426815.9015801183,
+    "height": 9.997630923281429,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2228.5081969548532,
+    "local_x": 5558.949413473059,
+    "latitude": 51.82910397,
+    "longitude": 4.94297139
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9429713,
+     51.82910402
+    ]
+   },
+   "properties": {
+    "name": "26_KW_0",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124377.67548311916,
+    "northing_rd": 426815.9071089034,
+    "height": 7.609450485690282,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2228.503198807476,
+    "local_x": 5558.956233151488,
+    "latitude": 51.82910402,
+    "longitude": 4.9429713
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94333952,
+     51.82907787
+    ]
+   },
+   "properties": {
+    "name": "27_KW_1",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124403.04048578806,
+    "northing_rd": 426812.8419285101,
+    "height": 6.568497980440627,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2252.539743895511,
+    "local_x": 5550.294640257114,
+    "latitude": 51.82907787,
+    "longitude": 4.94333952
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94331147,
+     51.82907309
+    ]
+   },
+   "properties": {
+    "name": "28_KW_1",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124401.10393344883,
+    "northing_rd": 426812.3222,
+    "height": 9.173943703034674,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2250.5359951351224,
+    "local_x": 5550.221243594167,
+    "latitude": 51.82907309,
+    "longitude": 4.94331147
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9428636,
+     51.82913591
+    ]
+   },
+   "properties": {
+    "name": "29_KW_1",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124370.27304464615,
+    "northing_rd": 426819.5002705475,
+    "height": 9.718047588927126,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2222.0921297594114,
+    "local_x": 5564.114246,
+    "latitude": 51.82913591,
+    "longitude": 4.9428636
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94288996,
+     51.82918473
+    ]
+   },
+   "properties": {
+    "name": "30_KW_1",
+    "type": "prism",
+    "element": "KW",
+    "easting_rd": 124372.1235009443,
+    "northing_rd": 426824.92000707675,
+    "height": 5.513597401826938,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2225.108074600803,
+    "local_x": 5568.982696694219,
+    "latitude": 51.82918473,
+    "longitude": 4.94288996
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94289632,
+     51.82873709
+    ]
+   },
+   "properties": {
+    "name": "22_P6_1",
+    "type": "prism",
+    "element": "P6",
+    "easting_rd": 124372.2579,
+    "northing_rd": 426775.1154,
+    "height": 6.158496667,
+    "timestamp": "18/08/2026 10:00",
+    "local_y": 2214.097847,
+    "local_x": 5520.410108,
+    "latitude": 51.82873709,
+    "longitude": 4.94289632
+   }
+  }
+ ]
+}
