@@ -1,0 +1,116 @@
+{
+ "type": "FeatureCollection",
+ "name": "Merwedebrug_A27_totalstations",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94166944,
+     51.82577029
+    ]
+   },
+   "properties": {
+    "name": "TS1-1",
+    "type": "total_station",
+    "easting_rd": 124285.6631,
+    "northing_rd": 426445.5655,
+    "height": 7.909905759,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2055.97801,
+    "local_x": 5218.582535,
+    "latitude": 51.82577029,
+    "longitude": 4.94166944
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94209406,
+     51.82572901
+    ]
+   },
+   "properties": {
+    "name": "TS2",
+    "type": "total_station",
+    "easting_rd": 124314.9079,
+    "northing_rd": 426440.7941,
+    "height": 7.035369951,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2083.41436,
+    "local_x": 5207.390052,
+    "latitude": 51.82572901,
+    "longitude": 4.94209406
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94299297,
+     51.82880599
+    ]
+   },
+   "properties": {
+    "name": "TS3",
+    "type": "total_station",
+    "easting_rd": 124378.9671,
+    "northing_rd": 426782.7405,
+    "height": 7.755192652,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2222.342825,
+    "local_x": 5526.34115,
+    "latitude": 51.82880599,
+    "longitude": 4.94299297
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94364323,
+     51.83003451
+    ]
+   },
+   "properties": {
+    "name": "TS4",
+    "type": "total_station",
+    "easting_rd": 124424.6251,
+    "northing_rd": 426919.1439,
+    "height": 8.738319593,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2297.35682,
+    "local_x": 5649.074343,
+    "latitude": 51.83003451,
+    "longitude": 4.94364323
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94327161,
+     51.83008632
+    ]
+   },
+   "properties": {
+    "name": "TS5",
+    "type": "total_station",
+    "easting_rd": 124399.0438,
+    "northing_rd": 426925.0647,
+    "height": 8.540416982,
+    "timestamp": "05/06/2026 10:00",
+    "local_y": 2273.748339,
+    "local_x": 5660.567582,
+    "latitude": 51.83008632,
+    "longitude": 4.94327161
+   }
+  }
+ ]
+}
